@@ -1,0 +1,15 @@
+{
+  "name": "js-dom-01",
+  "version": "1.0.0",
+  "description": "js dom practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "TailwindCSS"
+  ],
+  "author": "Rakib",
+  "license": "MIT"
+}
